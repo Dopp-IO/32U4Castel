@@ -11,6 +11,8 @@ C5	  1uF		      0603-CAP
 C6	  1uF		      0603-CAP  
 C7	  1uF		      0603-CAP  
 C8	  1uF		      0603-CAP  
+C9	  1uF		      0603-CAP  
+C10	  1uF		      0603-CAP  
 LED1	Red		      LED-0603  
 R1	  10K		      0603-RES  
 R2	  22		      0603-RES  
